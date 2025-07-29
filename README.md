@@ -1,6 +1,10 @@
 # 🧠 EchoLogic: The Mind Builder
 
-🎮 [Click here to play on Streamlit](https://echologic-app-xwibwojel5vfmmrsj2sbzr.streamlit.app/)
+<p align="center">
+  <a href="https://echologic.streamlit.app" target="_blank">
+    <img src="assets/Github.jpeg" alt="EchoLogic Thumbnail" width="600"/>
+  </a>
+</p>
 
 A fast-paced, adaptive logic game designed to stretch your brain. Built with Python + Streamlit.
 
