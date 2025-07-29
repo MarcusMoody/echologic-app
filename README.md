@@ -1,5 +1,9 @@
 # 🧠 EchoLogic: The Mind Builder
 
+🎮 [Click here to play on Streamlit](https://echologic-app-xwibwojel5vfmmrsj2sbzr.streamlit.app/)
+
+A fast-paced, adaptive logic game designed to stretch your brain. Built with Python + Streamlit.
+
 **EchoLogic** is a brain-boosting, mind-sharpening logic game built with Python and Streamlit. Designed to challenge your memory, reasoning, and pattern recognition skills, it adapts dynamically to your performance — making you think smarter with every level.
 
 > “Logic is the beginning of wisdom, not the end.” – Spock
