@@ -1,7 +1,7 @@
 # 🧠 EchoLogic: The Mind Builder
 
 <p align="center">
-  <a href="https://echologic.streamlit.app" target="_blank">
+  <a href="https://echologic-app-xwibwojel5vfmmrsj2sbzr.streamlit.app/" target="_blank">
     <img src="assets/Github.jpeg" alt="EchoLogic Thumbnail" width="600"/>
   </a>
 </p>
